@@ -15,3 +15,4 @@ The features this app have include.
 Author: KopanoM
 
 Created for the Spaanify Mobile App Development Webinar
+NB: Please add your own firebase google-services.json to the project
