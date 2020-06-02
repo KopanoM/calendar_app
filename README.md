@@ -4,13 +4,14 @@ A calendar app
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This proect was compiled to demonstrate the power of flutter.
+The features this app have include.
 
-A few resources to get you started if this is your first Flutter project:
+- Log In and Register Page.
+- Persistance Cloud Storage using Firebase
+- Calendar integration
+- Mark Items as complete
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Author: KopanoM
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Created for the Spaanify Mobile App Development Webinar
