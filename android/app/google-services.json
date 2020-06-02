@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "873018706220",
+    "firebase_url": "https://spaanify-calendar.firebaseio.com",
+    "project_id": "spaanify-calendar",
+    "storage_bucket": "spaanify-calendar.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:873018706220:android:ef3929ed2ea640b7dec489",
+        "android_client_info": {
+          "package_name": "qubit.solutions.spaanifycalendar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "873018706220-7kqt65ifk2dtfutdu1l9qg0sk6lkt7q9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByJaV1zWQwLyskJUkbp9fDwANkAU9VAOw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "873018706220-7kqt65ifk2dtfutdu1l9qg0sk6lkt7q9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
